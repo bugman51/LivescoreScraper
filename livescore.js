@@ -3,7 +3,7 @@ const fs = require('fs').promises;
 const chalk = require('chalk'); // Using v4.1.2
 const figlet = require('figlet');
 const fsSync = require('fs'); // For synchronous file operations (write stream)
-const { execSync } = require('child_process'); // For running finder.js
+const { execSync } = require('child_process'); // For running finder.js and run.sh
 
 // Create write streams for today.txt and tomorrow.txt (append mode)
 const todayLogStream = fsSync.createWriteStream('today.txt', { flags: 'a' });
@@ -69,15 +69,20 @@ async function getBuildIdFromFile() {
     }
 }
 
-// Function to run finder.js
+// Function to run finder.js and then run.sh
 function runFinderScript() {
     try {
         console.log(chalk.blue('Running finder.js to update the key...'));
         execSync('node finder.js', { stdio: 'inherit' });
         console.log(chalk.green('finder.js executed successfully'));
+        // Immediately run run.sh after finder.js
+        console.log(chalk.blue('Running run.sh to execute the full pipeline...'));
+        execSync('bash run.sh', { stdio: 'inherit' });
+        console.log(chalk.green('run.sh executed successfully'));
+        process.exit(0); // Exit after running run.sh to prevent duplicate execution
     } catch (error) {
-        console.error(chalk.red(`Error running finder.js: ${error.message}`));
-        process.exit(1); // Exit if finder.js fails
+        console.error(chalk.red(`Error running finder.js or run.sh: ${error.message}`));
+        process.exit(1); // Exit if finder.js or run.sh fails
     }
 }
 
@@ -284,9 +289,9 @@ async function mainScrape(scrapeDate, dateLabel, jsonFile, logStream) {
                     consecutiveFailures++;
                     if (consecutiveFailures >= 5) {
                         console.log(chalk.red(`Too many failures for ${dateLabel}, updating key...`));
-                        runFinderScript();
-                        console.log(chalk.blue(`Restarting scraping process for ${dateLabel} with new key...`));
-                        return mainScrape(scrapeDate, dateLabel, jsonFile, logStream); // Restart for this date
+                        runFinderScript(); // This will run finder.js and then run.sh
+                        // No need to call mainScrape again since run.sh will handle it
+                        return;
                     }
                     await saveFixturesData();
                 }
@@ -297,9 +302,9 @@ async function mainScrape(scrapeDate, dateLabel, jsonFile, logStream) {
                 consecutiveFailures++;
                 if (consecutiveFailures >= 5) {
                     console.log(chalk.red(`Too many failures for ${dateLabel}, updating key...`));
-                    runFinderScript();
-                    console.log(chalk.blue(`Restarting scraping process for ${dateLabel} with new key...`));
-                    return mainScrape(scrapeDate, dateLabel, jsonFile, logStream); // Restart for this date
+                    runFinderScript(); // This will run finder.js and then run.sh
+                    // No need to call mainScrape again since run.sh will handle it
+                    return;
                 }
                 await saveFixturesData();
                 await processUrl(urlIndex + 1);
@@ -326,7 +331,7 @@ async function scrapeBothDays() {
 }
 
 // Display the large script name and title
-console.log(chalk.white.bold(figlet.textSync('Football Fixtures Scraper by Qring', { font: 'Standard' })));
+console.log(chalk.white.bold(figlet.textSync('Football Fixtures Scraper by wiXnation.com', { font: 'Standard' })));
 console.log(chalk.white.bold('=== FOOTBALL FIXTURES SCRAPER ==='));
 
 // Start the scraping process
