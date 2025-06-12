@@ -1,0 +1,22 @@
+{
+  "OVER 1.5 STARTED HERE": [
+    {
+      "teams": "Fortaleza FC vs Leones",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    }
+  ],
+  "OVER 2.5 STARTED HERE": [],
+  "OVER 3.5 STARTED HERE": [],
+  "WIN STARTED HERE": [
+    {
+      "teams": "Finland U21 vs Netherlands U21",
+      "winner": "Netherlands U21",
+      "analysis": "Netherlands U21 won all 5/5 H2H matches"
+    },
+    {
+      "teams": "Southern California Seahorses vs Redlands",
+      "winner": "Redlands",
+      "analysis": "Redlands won all 4/4 H2H matches"
+    }
+  ]
+}
