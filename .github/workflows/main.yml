@@ -1,0 +1,39 @@
+name: Run Football-Fixtures
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  scrape-and-analyze:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: |
+          npm install axios chalk@4.1.2 figlet playwright
+          npx playwright install firefox
+
+      - name: Make run.sh executable
+        run: chmod +x run.sh
+
+      - name: Run scripts via run.sh
+        run: ./run.sh
+
+      - name: Commit and push results
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add key.txt today.json today.txt tomorrow.json tomorrow.txt today_analysis.json today_analysis.txt tomorrow_analysis.json tomorrow_analysis.txt
+          git commit -m "Update fixtures and analysis data for $(date +%F)"
+          git push || echo "No changes to commit"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
