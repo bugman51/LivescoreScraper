@@ -6,8 +6,8 @@ const fsSync = require('fs'); // For synchronous file operations (write stream)
 const { execSync } = require('child_process'); // For running finder.js and run.sh
 
 // Create write streams for today.txt and tomorrow.txt (append mode)
-const todayLogStream = fsSync.createWriteStream('today.txt', { flags: 'a' });
-const tomorrowLogStream = fsSync.createWriteStream('tomorrow.txt', { flags: 'a' });
+const todayLogStream = fsSync.createWriteStream('today.txt', { flags: 'w' });
+const tomorrowLogStream = fsSync.createWriteStream('tomorrow.txt', { flags: 'w' });
 
 // Store the original console.log
 const originalConsoleLog = console.log;
