@@ -1979,6 +1979,11 @@
       ],
       "Home last matches": [
         {
+          "Score": "CS Constantine 0 - 2 CR Belouizdad",
+          "Stage Name": "Ligue 1",
+          "date": "12.06.25"
+        },
+        {
           "Score": "CS Constantine 2 - 1 USM Khenchela",
           "Stage Name": "Ligue 1",
           "date": "03.06.25"
@@ -2022,14 +2027,14 @@
           "Score": "RS Berkane 4 - 0 CS Constantine",
           "Stage Name": "CAF Confederation Cup: Final Stage",
           "date": "20.04.25"
-        },
-        {
-          "Score": "USM Alger 1 - 1 CS Constantine",
-          "Stage Name": "CAF Confederation Cup: Final Stage",
-          "date": "09.04.25"
         }
       ],
       "Away last matches": [
+        {
+          "Score": "CS Constantine 0 - 2 CR Belouizdad",
+          "Stage Name": "Ligue 1",
+          "date": "12.06.25"
+        },
         {
           "Score": "CR Belouizdad 2 - 1 Paradou AC",
           "Stage Name": "Ligue 1",
@@ -2074,11 +2079,6 @@
           "Score": "CR Belouizdad 1 - 0 MO Bejaia",
           "Stage Name": "Algerian Cup",
           "date": "28.03.25"
-        },
-        {
-          "Score": "CR Belouizdad 1 - 1 USM Alger",
-          "Stage Name": "Ligue 1",
-          "date": "16.03.25"
         }
       ]
     },
@@ -2138,6 +2138,11 @@
       ],
       "Home last matches": [
         {
+          "Score": "JS Kabylie U21 2 - 0 ES Setif",
+          "Stage Name": "Ligue 1",
+          "date": "12.06.25"
+        },
+        {
           "Score": "NC Magra 1 - 3 JS Kabylie U21",
           "Stage Name": "Ligue 1 U21",
           "date": "25.05.25"
@@ -2181,14 +2186,14 @@
           "Score": "JS Kabylie U21 1 - 1 US Biskra U21",
           "Stage Name": "Ligue 1 U21",
           "date": "10.04.25"
-        },
-        {
-          "Score": "USM Khenchela U21 1 - 1 JS Kabylie U21",
-          "Stage Name": "Ligue 1 U21",
-          "date": "05.04.25"
         }
       ],
       "Away last matches": [
+        {
+          "Score": "JS Kabylie U21 2 - 0 ES Setif",
+          "Stage Name": "Ligue 1",
+          "date": "12.06.25"
+        },
         {
           "Score": "ES Setif 0 - 1 USM Khenchela",
           "Stage Name": "Ligue 1",
@@ -2233,11 +2238,6 @@
           "Score": "ES Mostaganem 1 - 0 ES Setif",
           "Stage Name": "Ligue 1",
           "date": "14.03.25"
-        },
-        {
-          "Score": "ES Setif 1 - 0 JS Saoura",
-          "Stage Name": "Ligue 1",
-          "date": "07.03.25"
         }
       ]
     },
@@ -2251,6 +2251,11 @@
         }
       ],
       "Home last matches": [
+        {
+          "Score": "MC Alger 5 - 2 ES Mostaganem U21",
+          "Stage Name": "Ligue 1",
+          "date": "12.06.25"
+        },
         {
           "Score": "JS Saoura 0 - 0 MC Alger",
           "Stage Name": "Ligue 1",
@@ -2295,14 +2300,14 @@
           "Score": "MC Alger 0 - 1 Orlando Pirates",
           "Stage Name": "CAF Champions League: Final Stage",
           "date": "01.04.25"
-        },
-        {
-          "Score": "MC Alger 2 - 2 USM Khenchela",
-          "Stage Name": "Ligue 1",
-          "date": "15.03.25"
         }
       ],
       "Away last matches": [
+        {
+          "Score": "MC Alger 5 - 2 ES Mostaganem U21",
+          "Stage Name": "Ligue 1",
+          "date": "12.06.25"
+        },
         {
           "Score": "Paradou AC U21 3 - 0 ES Mostaganem U21",
           "Stage Name": "Ligue 1 U21",
@@ -2347,11 +2352,6 @@
           "Score": "CR Belouizdad U21 7 - 1 ES Mostaganem U21",
           "Stage Name": "Ligue 1 U21",
           "date": "17.04.25"
-        },
-        {
-          "Score": "ES Mostaganem U21 1 - 3 Olympique Akbou U21",
-          "Stage Name": "Ligue 1 U21",
-          "date": "10.04.25"
         }
       ]
     },
@@ -8678,6 +8678,16 @@
       ],
       "Home last matches": [
         {
+          "Score": "Alianza Atletico 3 - 0 Comerciantes Unidos",
+          "Stage Name": "Liga 1; Overall",
+          "date": "12.06.25"
+        },
+        {
+          "Score": "Alianza Atletico 3 - 0 Comerciantes Unidos",
+          "Stage Name": "Liga 1: Apertura",
+          "date": "12.06.25"
+        },
+        {
           "Score": "Los Chankas CYC 1 - 2 Alianza Atletico",
           "Stage Name": "Liga 1: Apertura",
           "date": "01.06.25"
@@ -8716,19 +8726,19 @@
           "Score": "ADC Juan Pablo II 1 - 0 Alianza Atletico",
           "Stage Name": "Liga 1: Apertura",
           "date": "12.04.25"
-        },
-        {
-          "Score": "Alianza Atletico 2 - 4 Cusco FC",
-          "Stage Name": "Liga 1: Apertura",
-          "date": "28.03.25"
-        },
-        {
-          "Score": "CD UT Cajamarca 0 - 0 Alianza Atletico",
-          "Stage Name": "Liga 1: Apertura",
-          "date": "08.03.25"
         }
       ],
       "Away last matches": [
+        {
+          "Score": "Alianza Atletico 3 - 0 Comerciantes Unidos",
+          "Stage Name": "Liga 1; Overall",
+          "date": "12.06.25"
+        },
+        {
+          "Score": "Alianza Atletico 3 - 0 Comerciantes Unidos",
+          "Stage Name": "Liga 1: Apertura",
+          "date": "12.06.25"
+        },
         {
           "Score": "Comerciantes Unidos 1 - 2 Cusco FC",
           "Stage Name": "Liga 1: Apertura",
@@ -8768,16 +8778,6 @@
           "Score": "Comerciantes Unidos 2 - 2 Atletico Grau",
           "Stage Name": "Liga 1: Apertura",
           "date": "27.03.25"
-        },
-        {
-          "Score": "Cienciano 3 - 2 Comerciantes Unidos",
-          "Stage Name": "Liga 1: Apertura",
-          "date": "10.03.25"
-        },
-        {
-          "Score": "Comerciantes Unidos 1 - 1 Los Chankas CYC",
-          "Stage Name": "Liga 1: Apertura",
-          "date": "22.02.25"
         }
       ]
     },
