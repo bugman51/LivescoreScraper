@@ -1,161 +1,44 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Brisbane Roar FC Youth vs Sunshine Coast Wanderers",
+      "teams": "Vikingur Reykjavik vs KR Reykjavik",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Portugal Women U19 vs Spain U19 W",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Montedio Yamagata vs Vegalta Sendai",
+      "teams": "Djerv 1919 vs Haugesund 2",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Al Sadaqa vs Al-Nasr",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Lillehammer FK vs Elverum",
-      "analysis": "All 7/7 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Vidar vs Sandnes 2",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
+      "teams": "Club River Plate vs Club Sportivo Carapegua",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
     },
     {
       "teams": "Academia Cantolao vs Deportivo Coopsol",
       "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "IK Brage vs Oergryte",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Esloevs vs BK Olympic",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Karlbergs BK vs FC Stockholm Internazionale",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Oesterlen FF vs FK Karlskrona",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Albion vs Oriental",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Tacuarembo FC vs Rentistas",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "North Texas SC vs Austin FC II",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Des Moines Menace vs Peoria City",
-      "analysis": "All 8/8 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Ho Chi Minh City FC vs Binh Dinh",
-      "analysis": "All 7/7 H2H are over 1.5 Goals"
     }
   ],
-  "OVER 2.5 STARTED HERE": [
-    {
-      "teams": "Sporting Kansas City vs FC Dallas",
-      "analysis": "All 10/10 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "England U21 vs Slovenia U21",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Patronato de Parana vs Los Andes",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Yoogali Soccer Club vs Canberra Croatia FC",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Central Coast Mariners Youth vs Wollongong Wolves",
-      "analysis": "All 7/7 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Pine Hills vs North Star FC",
-      "analysis": "All 6/6 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "SSV Merten vs FC Wegberg-Beeck",
-      "analysis": "All 5/5 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Vaestra Froelunda vs Laholms FK",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Virginia Marauders vs Christos FC",
-      "analysis": "All 5/5 H2H are over 2.5 Goals"
-    }
-  ],
+  "OVER 2.5 STARTED HERE": [],
   "OVER 3.5 STARTED HERE": [
     {
-      "teams": "Grange Thistle vs Samford Rangers",
-      "analysis": "All 6/6 H2H are over 3.5 Goals"
-    },
-    {
-      "teams": "Humaita SC vs Manauara",
-      "analysis": "All 3/3 H2H are over 3.5 Goals"
-    },
-    {
-      "teams": "Raufoss vs Odds Ballklubb",
-      "analysis": "All 3/3 H2H are over 3.5 Goals"
-    },
-    {
-      "teams": "Hwaseong vs Ansan Greeners",
+      "teams": "Denmark U19 vs Montenegro U19",
       "analysis": "All 3/3 H2H are over 3.5 Goals"
     }
   ],
   "WIN STARTED HERE": [
     {
-      "teams": "Yoogali Soccer Club vs Canberra Croatia FC",
-      "winner": "Canberra Croatia FC",
-      "analysis": "Canberra Croatia FC won all 4/4 H2H matches"
+      "teams": "Denmark U19 vs Montenegro U19",
+      "winner": "Denmark U19",
+      "analysis": "Denmark U19 won all 3/3 H2H matches"
     },
     {
-      "teams": "Humaita SC vs Manauara",
-      "winner": "Manauara",
-      "analysis": "Manauara won all 3/3 H2H matches"
+      "teams": "Minnesota United II vs Ventura County FC",
+      "winner": "Minnesota United II",
+      "analysis": "Minnesota United II won all 3/3 H2H matches"
     },
     {
-      "teams": "Portugal Women U19 vs Spain U19 W",
-      "winner": "Spain U19 W",
-      "analysis": "Spain U19 W won all 5/5 H2H matches"
-    },
-    {
-      "teams": "SSV Merten vs FC Wegberg-Beeck",
-      "winner": "FC Wegberg-Beeck",
-      "analysis": "FC Wegberg-Beeck won all 5/5 H2H matches"
-    },
-    {
-      "teams": "VfL Vichttal vs Bonn-Endenich 08",
-      "winner": "VfL Vichttal",
-      "analysis": "VfL Vichttal won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Raufoss vs Odds Ballklubb",
-      "winner": "Odds Ballklubb",
-      "analysis": "Odds Ballklubb won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Nardo vs Melhus",
-      "winner": "Nardo",
-      "analysis": "Nardo won all 4/4 H2H matches"
+      "teams": "Real Monarchs SLC vs Houston Dynamo II",
+      "winner": "Houston Dynamo II",
+      "analysis": "Houston Dynamo II won all 5/5 H2H matches"
     }
   ]
 }

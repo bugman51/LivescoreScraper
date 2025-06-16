@@ -1,44 +1,33 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Vikingur Reykjavik vs KR Reykjavik",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
+      "teams": "SK Super Nova vs FK Liepaja",
+      "analysis": "All 9/9 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Djerv 1919 vs Haugesund 2",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
+      "teams": "West Chester United vs Lehigh Valley United",
+      "analysis": "All 9/9 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Club River Plate vs Club Sportivo Carapegua",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Binacional vs Alianza Universidad",
+      "teams": "Manhattan SC vs FC Motown II",
       "analysis": "All 6/6 H2H are over 1.5 Goals"
     }
   ],
-  "OVER 2.5 STARTED HERE": [],
+  "OVER 2.5 STARTED HERE": [
+    {
+      "teams": "AFC Ann Arbor vs Midwest United FC",
+      "analysis": "All 8/8 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Twin City Toucans vs Corpus Christi",
+      "analysis": "All 6/6 H2H are over 2.5 Goals"
+    }
+  ],
   "OVER 3.5 STARTED HERE": [
     {
-      "teams": "Denmark U19 vs Montenegro U19",
+      "teams": "Beijing Guoan vs Qingdao West Coast",
       "analysis": "All 3/3 H2H are over 3.5 Goals"
     }
   ],
-  "WIN STARTED HERE": [
-    {
-      "teams": "Denmark U19 vs Montenegro U19",
-      "winner": "Denmark U19",
-      "analysis": "Denmark U19 won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Minnesota United II vs Ventura County FC",
-      "winner": "Minnesota United II",
-      "analysis": "Minnesota United II won all 3/3 H2H matches"
-    },
-    {
-      "teams": "Real Monarchs SLC vs Houston Dynamo II",
-      "winner": "Houston Dynamo II",
-      "analysis": "Houston Dynamo II won all 5/5 H2H matches"
-    }
-  ]
+  "WIN STARTED HERE": []
 }

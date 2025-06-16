@@ -1,122 +1,34 @@
 OVER 1.5 STARTED HERE
 
-Teams: Brisbane Roar FC Youth vs Sunshine Coast Wanderers
+Teams: Vikingur Reykjavik vs KR Reykjavik
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Portugal Women U19 vs Spain U19 W
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Montedio Yamagata vs Vegalta Sendai
+Teams: Djerv 1919 vs Haugesund 2
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Al Sadaqa vs Al-Nasr
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Lillehammer FK vs Elverum
-Analysis: All 7/7 H2H are over 1.5 Goals
-
-Teams: Vidar vs Sandnes 2
-Analysis: All 10/10 H2H are over 1.5 Goals
+Teams: Club River Plate vs Club Sportivo Carapegua
+Analysis: All 6/6 H2H are over 1.5 Goals
 
 Teams: Academia Cantolao vs Deportivo Coopsol
 Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: IK Brage vs Oergryte
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Esloevs vs BK Olympic
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Karlbergs BK vs FC Stockholm Internazionale
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Oesterlen FF vs FK Karlskrona
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: Albion vs Oriental
-Analysis: All 8/8 H2H are over 1.5 Goals
-
-Teams: Tacuarembo FC vs Rentistas
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: North Texas SC vs Austin FC II
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Des Moines Menace vs Peoria City
-Analysis: All 8/8 H2H are over 1.5 Goals
-
-Teams: Ho Chi Minh City FC vs Binh Dinh
-Analysis: All 7/7 H2H are over 1.5 Goals
-
 OVER 2.5 STARTED HERE
-
-Teams: Sporting Kansas City vs FC Dallas
-Analysis: All 10/10 H2H are over 2.5 Goals
-
-Teams: England U21 vs Slovenia U21
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: Patronato de Parana vs Los Andes
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Yoogali Soccer Club vs Canberra Croatia FC
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: Central Coast Mariners Youth vs Wollongong Wolves
-Analysis: All 7/7 H2H are over 2.5 Goals
-
-Teams: Pine Hills vs North Star FC
-Analysis: All 6/6 H2H are over 2.5 Goals
-
-Teams: SSV Merten vs FC Wegberg-Beeck
-Analysis: All 5/5 H2H are over 2.5 Goals
-
-Teams: Vaestra Froelunda vs Laholms FK
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: Virginia Marauders vs Christos FC
-Analysis: All 5/5 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
-Teams: Grange Thistle vs Samford Rangers
-Analysis: All 6/6 H2H are over 3.5 Goals
-
-Teams: Humaita SC vs Manauara
-Analysis: All 3/3 H2H are over 3.5 Goals
-
-Teams: Raufoss vs Odds Ballklubb
-Analysis: All 3/3 H2H are over 3.5 Goals
-
-Teams: Hwaseong vs Ansan Greeners
+Teams: Denmark U19 vs Montenegro U19
 Analysis: All 3/3 H2H are over 3.5 Goals
 
 WIN STARTED HERE
 
-Teams: Yoogali Soccer Club vs Canberra Croatia FC
-Analysis: Canberra Croatia FC won all 4/4 H2H matches
-Winner: Canberra Croatia FC
+Teams: Denmark U19 vs Montenegro U19
+Analysis: Denmark U19 won all 3/3 H2H matches
+Winner: Denmark U19
 
-Teams: Humaita SC vs Manauara
-Analysis: Manauara won all 3/3 H2H matches
-Winner: Manauara
+Teams: Minnesota United II vs Ventura County FC
+Analysis: Minnesota United II won all 3/3 H2H matches
+Winner: Minnesota United II
 
-Teams: Portugal Women U19 vs Spain U19 W
-Analysis: Spain U19 W won all 5/5 H2H matches
-Winner: Spain U19 W
-
-Teams: SSV Merten vs FC Wegberg-Beeck
-Analysis: FC Wegberg-Beeck won all 5/5 H2H matches
-Winner: FC Wegberg-Beeck
-
-Teams: VfL Vichttal vs Bonn-Endenich 08
-Analysis: VfL Vichttal won all 3/3 H2H matches
-Winner: VfL Vichttal
-
-Teams: Raufoss vs Odds Ballklubb
-Analysis: Odds Ballklubb won all 3/3 H2H matches
-Winner: Odds Ballklubb
-
-Teams: Nardo vs Melhus
-Analysis: Nardo won all 4/4 H2H matches
-Winner: Nardo
+Teams: Real Monarchs SLC vs Houston Dynamo II
+Analysis: Houston Dynamo II won all 5/5 H2H matches
+Winner: Houston Dynamo II
