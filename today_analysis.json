@@ -1,33 +1,75 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "SK Super Nova vs FK Liepaja",
+      "teams": "Consadole Sapporo vs Oita Trinita",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "FC Midtjylland U17 vs Vejle U17",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "FCI Levadia vs Talinna Kalev",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "SJK Akatemia vs KaPa Kapylan Pallo",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Stjarnan vs Keflavik",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Moss vs Hoedd",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Assyriska FF vs Sollentuna FK",
       "analysis": "All 9/9 H2H are over 1.5 Goals"
     },
     {
-      "teams": "West Chester United vs Lehigh Valley United",
-      "analysis": "All 9/9 H2H are over 1.5 Goals"
+      "teams": "Coastal Union vs Fountain Gate FC",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Manhattan SC vs FC Motown II",
+      "teams": "Boston City FC vs Black Rock FC",
+      "analysis": "All 5/5 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Tobacco Road FC vs Charlotte Independence 2",
       "analysis": "All 6/6 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "AFC Ann Arbor vs Midwest United FC",
-      "analysis": "All 8/8 H2H are over 2.5 Goals"
+      "teams": "Yokohama FC vs Grulla Morioka",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
     },
     {
-      "teams": "Twin City Toucans vs Corpus Christi",
-      "analysis": "All 6/6 H2H are over 2.5 Goals"
-    }
-  ],
-  "OVER 3.5 STARTED HERE": [
+      "teams": "Gamla Upsala W vs Bollstanaes SK W",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
+    },
     {
-      "teams": "Beijing Guoan vs Qingdao West Coast",
-      "analysis": "All 3/3 H2H are over 3.5 Goals"
+      "teams": "Brevard vs Brave SC",
+      "analysis": "All 5/5 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Charlotte Eagles vs Salem City FC",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
     }
   ],
-  "WIN STARTED HERE": []
+  "OVER 3.5 STARTED HERE": [],
+  "WIN STARTED HERE": [
+    {
+      "teams": "Douanes Niamey vs Liberte",
+      "winner": "Douanes Niamey",
+      "analysis": "Douanes Niamey won all 5/5 H2H matches"
+    },
+    {
+      "teams": "Seacoast United Phantoms vs Boston Bolts",
+      "winner": "Seacoast United Phantoms",
+      "analysis": "Seacoast United Phantoms won all 7/7 H2H matches"
+    }
+  ]
 }
