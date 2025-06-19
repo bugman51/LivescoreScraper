@@ -1,39 +1,47 @@
 OVER 1.5 STARTED HERE
 
-Teams: FC Inter Turku vs FC KTP
+Teams: Melbourne Knights vs Green Gully Cavaliers
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Tartu JK Welco vs Nomme Kalju U21
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: IBV Vestmannaeyjar vs Valur
+Teams: Darwin Olympic vs Darwin Hearts
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Suduva vs Zalgiris Vilnius
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: FC Stockholm Internazionale vs Vasalunds
+Teams: Deportes Recoleta vs Deportes Temuco
 Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: Skiljebo SK vs IK Franke
-Analysis: All 6/6 H2H are over 1.5 Goals
-
-Teams: Colorado Rapids II vs North Texas SC
+Teams: Wexford FC vs Longford Town
 Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Virginia Marauders vs Christos FC
-Analysis: All 5/5 H2H are over 2.5 Goals
+Teams: Mindil Aces vs Garuda FC
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Tammeka U21 vs Nomme United
+Analysis: All 8/8 H2H are over 2.5 Goals
+
+Teams: Utah United vs CISA
+Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
+Teams: Brisbane Knights vs Souths United
+Analysis: All 3/3 H2H are over 3.5 Goals
+
 WIN STARTED HERE
 
-Teams: Al-Tahaddi vs Al-Hilal
-Analysis: Al-Hilal won all 8/8 H2H matches
-Winner: Al-Hilal
+Teams: Norway U19 vs Germany U19
+Analysis: Norway U19 won all 3/3 H2H matches
+Winner: Norway U19
 
-Teams: FC Arlanda vs Karlbergs BK
-Analysis: Karlbergs BK won all 4/4 H2H matches
-Winner: Karlbergs BK
+Teams: Mindil Aces vs Garuda FC
+Analysis: Mindil Aces won all 4/4 H2H matches
+Winner: Mindil Aces
+
+Teams: Aasane W vs Fyllingsdalen W
+Analysis: Aasane W won all 3/3 H2H matches
+Winner: Aasane W
+
+Teams: Utah United vs CISA
+Analysis: Utah United won all 3/3 H2H matches
+Winner: Utah United

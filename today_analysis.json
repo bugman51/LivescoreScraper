@@ -1,75 +1,51 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "Consadole Sapporo vs Oita Trinita",
+      "teams": "FC Inter Turku vs FC KTP",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "FC Midtjylland U17 vs Vejle U17",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "FCI Levadia vs Talinna Kalev",
-      "analysis": "All 10/10 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "SJK Akatemia vs KaPa Kapylan Pallo",
+      "teams": "Tartu JK Welco vs Nomme Kalju U21",
       "analysis": "All 5/5 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Stjarnan vs Keflavik",
+      "teams": "IBV Vestmannaeyjar vs Valur",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Moss vs Hoedd",
+      "teams": "Suduva vs Zalgiris Vilnius",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Assyriska FF vs Sollentuna FK",
-      "analysis": "All 9/9 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Coastal Union vs Fountain Gate FC",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Boston City FC vs Black Rock FC",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Tobacco Road FC vs Charlotte Independence 2",
+      "teams": "FC Stockholm Internazionale vs Vasalunds",
       "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Skiljebo SK vs IK Franke",
+      "analysis": "All 6/6 H2H are over 1.5 Goals"
+    },
+    {
+      "teams": "Colorado Rapids II vs North Texas SC",
+      "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Yokohama FC vs Grulla Morioka",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Gamla Upsala W vs Bollstanaes SK W",
-      "analysis": "All 4/4 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Brevard vs Brave SC",
+      "teams": "Virginia Marauders vs Christos FC",
       "analysis": "All 5/5 H2H are over 2.5 Goals"
-    },
-    {
-      "teams": "Charlotte Eagles vs Salem City FC",
-      "analysis": "All 3/3 H2H are over 2.5 Goals"
     }
   ],
   "OVER 3.5 STARTED HERE": [],
   "WIN STARTED HERE": [
     {
-      "teams": "Douanes Niamey vs Liberte",
-      "winner": "Douanes Niamey",
-      "analysis": "Douanes Niamey won all 5/5 H2H matches"
+      "teams": "Al-Tahaddi vs Al-Hilal",
+      "winner": "Al-Hilal",
+      "analysis": "Al-Hilal won all 8/8 H2H matches"
     },
     {
-      "teams": "Seacoast United Phantoms vs Boston Bolts",
-      "winner": "Seacoast United Phantoms",
-      "analysis": "Seacoast United Phantoms won all 7/7 H2H matches"
+      "teams": "FC Arlanda vs Karlbergs BK",
+      "winner": "Karlbergs BK",
+      "analysis": "Karlbergs BK won all 4/4 H2H matches"
     }
   ]
 }

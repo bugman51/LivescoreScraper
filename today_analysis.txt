@@ -1,57 +1,39 @@
 OVER 1.5 STARTED HERE
 
-Teams: Consadole Sapporo vs Oita Trinita
+Teams: FC Inter Turku vs FC KTP
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: FC Midtjylland U17 vs Vejle U17
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: FCI Levadia vs Talinna Kalev
-Analysis: All 10/10 H2H are over 1.5 Goals
-
-Teams: SJK Akatemia vs KaPa Kapylan Pallo
+Teams: Tartu JK Welco vs Nomme Kalju U21
 Analysis: All 5/5 H2H are over 1.5 Goals
 
-Teams: Stjarnan vs Keflavik
+Teams: IBV Vestmannaeyjar vs Valur
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Moss vs Hoedd
+Teams: Suduva vs Zalgiris Vilnius
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Assyriska FF vs Sollentuna FK
-Analysis: All 9/9 H2H are over 1.5 Goals
-
-Teams: Coastal Union vs Fountain Gate FC
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Boston City FC vs Black Rock FC
-Analysis: All 5/5 H2H are over 1.5 Goals
-
-Teams: Tobacco Road FC vs Charlotte Independence 2
+Teams: FC Stockholm Internazionale vs Vasalunds
 Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Skiljebo SK vs IK Franke
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Colorado Rapids II vs North Texas SC
+Analysis: All 10/10 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Yokohama FC vs Grulla Morioka
-Analysis: All 3/3 H2H are over 2.5 Goals
-
-Teams: Gamla Upsala W vs Bollstanaes SK W
-Analysis: All 4/4 H2H are over 2.5 Goals
-
-Teams: Brevard vs Brave SC
+Teams: Virginia Marauders vs Christos FC
 Analysis: All 5/5 H2H are over 2.5 Goals
-
-Teams: Charlotte Eagles vs Salem City FC
-Analysis: All 3/3 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
 WIN STARTED HERE
 
-Teams: Douanes Niamey vs Liberte
-Analysis: Douanes Niamey won all 5/5 H2H matches
-Winner: Douanes Niamey
+Teams: Al-Tahaddi vs Al-Hilal
+Analysis: Al-Hilal won all 8/8 H2H matches
+Winner: Al-Hilal
 
-Teams: Seacoast United Phantoms vs Boston Bolts
-Analysis: Seacoast United Phantoms won all 7/7 H2H matches
-Winner: Seacoast United Phantoms
+Teams: FC Arlanda vs Karlbergs BK
+Analysis: Karlbergs BK won all 4/4 H2H matches
+Winner: Karlbergs BK
