@@ -1,47 +1,154 @@
 OVER 1.5 STARTED HERE
 
-Teams: Melbourne Knights vs Green Gully Cavaliers
+Teams: Pohang Steelers vs Jeju United
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Darwin Olympic vs Darwin Hearts
+Teams: Westerlo vs KV Mechelen
 Analysis: All 10/10 H2H are over 1.5 Goals
 
-Teams: Deportes Recoleta vs Deportes Temuco
+Teams: Wollongong Wolves vs Rockdale Ilinden
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Valentine Phoenix vs Cooks Hill United FC
+Analysis: All 7/7 H2H are over 1.5 Goals
+
+Teams: North Eastern Metro Stars vs FK Beograd
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Hellenic vs Port Darwin
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Capalaba vs Ipswich FC
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Adelaide Blue Eagles vs Salisbury United
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: Taringa Rovers vs Grange Thistle
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: HFX Wanderers FC vs Vancouver FC
+Analysis: All 9/9 H2H are over 1.5 Goals
+
+Teams: Lyngby U17 vs AGF U17
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Shamrock Rovers W vs Cork City FC W
+Analysis: All 5/5 H2H are over 1.5 Goals
+
+Teams: FK Liepaja vs FK Metta
+Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Universitario de Deportes vs Asociacion Deportiva Tarma
 Analysis: All 6/6 H2H are over 1.5 Goals
 
-Teams: Wexford FC vs Longford Town
+Teams: Black Rock FC vs Boston City FC
+Analysis: All 6/6 H2H are over 1.5 Goals
+
+Teams: Reading United A.C. vs West Chester United
 Analysis: All 10/10 H2H are over 1.5 Goals
+
+Teams: Miami AC vs St. Petersburg FC
+Analysis: All 5/5 H2H are over 1.5 Goals
 
 OVER 2.5 STARTED HERE
 
-Teams: Mindil Aces vs Garuda FC
+Teams: Sutherland Sharks vs St George FC
+Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: Weston Workers vs New Lambton FC
+Analysis: All 5/5 H2H are over 2.5 Goals
+
+Teams: Newcastle Olympic vs Maitland
+Analysis: All 10/10 H2H are over 2.5 Goals
+
+Teams: Moreton City Excelsior vs Brisbane Roar FC Youth
+Analysis: All 10/10 H2H are over 2.5 Goals
+
+Teams: Inter Lions FC vs Northbridge FC Bulls
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Southside Eagles vs Logan Lightning
+Analysis: All 10/10 H2H are over 2.5 Goals
+
+Teams: Caboolture FC vs Broadbeach United
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Nantong Zhiyun FC vs Liaoning Tieren
 Analysis: All 4/4 H2H are over 2.5 Goals
 
-Teams: Tammeka U21 vs Nomme United
+Teams: New Jersey Copa FC vs Manhattan SC
+Analysis: All 3/3 H2H are over 2.5 Goals
+
+Teams: Vermont Green FC vs AC Connecticut
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Hudson Valley Hammers vs Ironbound
+Analysis: All 4/4 H2H are over 2.5 Goals
+
+Teams: Tobacco Road FC vs Wake FC
 Analysis: All 8/8 H2H are over 2.5 Goals
 
-Teams: Utah United vs CISA
-Analysis: All 3/3 H2H are over 2.5 Goals
+Teams: Charlotte Independence 2 vs Charlotte Eagles
+Analysis: All 8/8 H2H are over 2.5 Goals
 
 OVER 3.5 STARTED HERE
 
-Teams: Brisbane Knights vs Souths United
-Analysis: All 3/3 H2H are over 3.5 Goals
+Teams: South Hobart vs Launceston United
+Analysis: All 7/7 H2H are over 3.5 Goals
+
+Teams: AC Horsens U17 vs Broendby U17
+Analysis: All 10/10 H2H are over 3.5 Goals
+
+Teams: Grindavik vs Volsungur
+Analysis: All 4/4 H2H are over 3.5 Goals
 
 WIN STARTED HERE
 
-Teams: Norway U19 vs Germany U19
-Analysis: Norway U19 won all 3/3 H2H matches
-Winner: Norway U19
+Teams: Curacao vs Canada
+Analysis: Canada won all 3/3 H2H matches
+Winner: Canada
 
-Teams: Mindil Aces vs Garuda FC
-Analysis: Mindil Aces won all 4/4 H2H matches
-Winner: Mindil Aces
+Teams: Queanbeyan City vs Canberra Croatia FC
+Analysis: Canberra Croatia FC won all 3/3 H2H matches
+Winner: Canberra Croatia FC
 
-Teams: Aasane W vs Fyllingsdalen W
-Analysis: Aasane W won all 3/3 H2H matches
-Winner: Aasane W
+Teams: South Hobart vs Launceston United
+Analysis: South Hobart won all 7/7 H2H matches
+Winner: South Hobart
 
-Teams: Utah United vs CISA
-Analysis: Utah United won all 3/3 H2H matches
-Winner: Utah United
+Teams: Hakoah Sydney City East vs UNSW FC
+Analysis: UNSW FC won all 3/3 H2H matches
+Winner: UNSW FC
+
+Teams: Nantong Zhiyun FC vs Liaoning Tieren
+Analysis: Nantong Zhiyun FC won all 4/4 H2H matches
+Winner: Nantong Zhiyun FC
+
+Teams: Spain U19 W vs England U19 W
+Analysis: Spain U19 W won all 5/5 H2H matches
+Winner: Spain U19 W
+
+Teams: Grindavik vs Volsungur
+Analysis: Grindavik won all 4/4 H2H matches
+Winner: Grindavik
+
+Teams: Viking W vs Avaldsnes W
+Analysis: Avaldsnes W won all 3/3 H2H matches
+Winner: Avaldsnes W
+
+Teams: Miramar Misiones vs Nacional
+Analysis: Nacional won all 5/5 H2H matches
+Winner: Nacional
+
+Teams: New Jersey Copa FC vs Manhattan SC
+Analysis: Manhattan SC won all 3/3 H2H matches
+Winner: Manhattan SC
+
+Teams: Vermont Green FC vs AC Connecticut
+Analysis: Vermont Green FC won all 4/4 H2H matches
+Winner: Vermont Green FC
+
+Teams: Hudson Valley Hammers vs Ironbound
+Analysis: Hudson Valley Hammers won all 4/4 H2H matches
+Winner: Hudson Valley Hammers

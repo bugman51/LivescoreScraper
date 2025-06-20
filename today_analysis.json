@@ -1,51 +1,71 @@
 {
   "OVER 1.5 STARTED HERE": [
     {
-      "teams": "FC Inter Turku vs FC KTP",
+      "teams": "Melbourne Knights vs Green Gully Cavaliers",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Tartu JK Welco vs Nomme Kalju U21",
-      "analysis": "All 5/5 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "IBV Vestmannaeyjar vs Valur",
+      "teams": "Bayswater City vs Floreat Athena",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Suduva vs Zalgiris Vilnius",
+      "teams": "Darwin Olympic vs Darwin Hearts",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     },
     {
-      "teams": "FC Stockholm Internazionale vs Vasalunds",
+      "teams": "Deportes Recoleta vs Deportes Temuco",
       "analysis": "All 6/6 H2H are over 1.5 Goals"
     },
     {
-      "teams": "Skiljebo SK vs IK Franke",
-      "analysis": "All 6/6 H2H are over 1.5 Goals"
-    },
-    {
-      "teams": "Colorado Rapids II vs North Texas SC",
+      "teams": "Wexford FC vs Longford Town",
       "analysis": "All 10/10 H2H are over 1.5 Goals"
     }
   ],
   "OVER 2.5 STARTED HERE": [
     {
-      "teams": "Virginia Marauders vs Christos FC",
-      "analysis": "All 5/5 H2H are over 2.5 Goals"
-    }
-  ],
-  "OVER 3.5 STARTED HERE": [],
-  "WIN STARTED HERE": [
-    {
-      "teams": "Al-Tahaddi vs Al-Hilal",
-      "winner": "Al-Hilal",
-      "analysis": "Al-Hilal won all 8/8 H2H matches"
+      "teams": "Mindil Aces vs Garuda FC",
+      "analysis": "All 4/4 H2H are over 2.5 Goals"
     },
     {
-      "teams": "FC Arlanda vs Karlbergs BK",
-      "winner": "Karlbergs BK",
-      "analysis": "Karlbergs BK won all 4/4 H2H matches"
+      "teams": "Tammeka U21 vs Nomme United",
+      "analysis": "All 8/8 H2H are over 2.5 Goals"
+    },
+    {
+      "teams": "Utah United vs CISA",
+      "analysis": "All 3/3 H2H are over 2.5 Goals"
+    }
+  ],
+  "OVER 3.5 STARTED HERE": [
+    {
+      "teams": "Brisbane Knights vs Souths United",
+      "analysis": "All 3/3 H2H are over 3.5 Goals"
+    }
+  ],
+  "WIN STARTED HERE": [
+    {
+      "teams": "KSV Oudenaarde vs Zulte Waregem",
+      "winner": "Zulte Waregem",
+      "analysis": "Zulte Waregem won all 5/5 H2H matches"
+    },
+    {
+      "teams": "Norway U19 vs Germany U19",
+      "winner": "Norway U19",
+      "analysis": "Norway U19 won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Mindil Aces vs Garuda FC",
+      "winner": "Mindil Aces",
+      "analysis": "Mindil Aces won all 4/4 H2H matches"
+    },
+    {
+      "teams": "Aasane W vs Fyllingsdalen W",
+      "winner": "Aasane W",
+      "analysis": "Aasane W won all 3/3 H2H matches"
+    },
+    {
+      "teams": "Utah United vs CISA",
+      "winner": "Utah United",
+      "analysis": "Utah United won all 3/3 H2H matches"
     }
   ]
 }
